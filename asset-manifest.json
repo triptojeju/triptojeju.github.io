@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b762137b.css",
+    "main.js": "/static/js/main.f99e33cb.js",
+    "static/media/dolhareubang.png": "/static/media/dolhareubang.f6b5778974140119ab22.png",
+    "static/media/background1.jpeg": "/static/media/background1.2131fce2c0ed0da982e1.jpeg",
+    "static/media/hallabong.png": "/static/media/hallabong.a16fb287a1e5baa8e5bd.png",
+    "static/media/Sunflower-Medium.ttf": "/static/media/Sunflower-Medium.e76a775371fbf8a35896.ttf",
+    "static/media/Sunflower-Light.ttf": "/static/media/Sunflower-Light.9dfe528a4ce079ccf982.ttf",
+    "static/media/Sunflower-Bold.ttf": "/static/media/Sunflower-Bold.125b8a2a9ee158e0476e.ttf",
+    "static/media/jejuWColor.png": "/static/media/jejuWColor.ff7901c003b7387f6d02.png",
+    "static/media/jejuEColor.png": "/static/media/jejuEColor.085c806312142cd66f7b.png",
+    "index.html": "/index.html",
+    "main.b762137b.css.map": "/static/css/main.b762137b.css.map",
+    "main.f99e33cb.js.map": "/static/js/main.f99e33cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b762137b.css",
+    "static/js/main.f99e33cb.js"
+  ]
+}
